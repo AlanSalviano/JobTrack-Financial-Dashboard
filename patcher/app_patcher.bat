@@ -1,6 +1,6 @@
 @echo off
 echo ========================================
-echo Instalando dependências do BNS App...
+echo Instalando dependências do App...
 echo ========================================
 
 pip install -r requirements.txt
