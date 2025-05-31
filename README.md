@@ -56,7 +56,7 @@ Este é um sistema desenvolvido em **Python + Streamlit**, que realiza análises
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/AlanSalviano/JobTrack-Financial-Dashboard.git
 cd seu-repositorio
 ```
 
