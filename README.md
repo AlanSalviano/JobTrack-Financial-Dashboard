@@ -137,11 +137,7 @@ Este projeto está sob a Licença MIT — sinta-se livre para usar, copiar, modi
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por **Alan Salviano**.
-
-- [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- 📧 seuemail@exemplo.com
+Desenvolvido por **AlanSalviano**.
 
 ---
 
