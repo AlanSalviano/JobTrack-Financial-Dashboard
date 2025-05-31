@@ -1,5 +1,5 @@
 
-# JobTrack — Service Payment & Profit Dashboard
+# Sheet2Dash — Service Payment & Profit Dashboard
 
 Este é um sistema desenvolvido em **Python + Streamlit**, que realiza análises financeiras de serviços. Ele permite processar planilhas, calcular pagamentos de funcionários, visualizar dashboards interativos e gerar relatórios profissionais em PDF.
 
